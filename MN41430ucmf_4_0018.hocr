@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41430ucmf_4_0018.png"; bbox 0 0 1693 2985; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 102 1334 822 1391">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 102 1334 822 1391">
+     <span class='ocr_line' id='line_1_1' title="bbox 102 1334 822 1391; baseline 0 -14"><span class='ocrx_word' id='word_1_1' title='bbox 102 1334 157 1377; x_wconf 79' lang='lat' dir='ltr'>Was</span> <span class='ocrx_word' id='word_1_2' title='bbox 173 1335 296 1390; x_wconf 72' lang='lat' dir='ltr'><strong>verteidigh</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 311 1335 402 1377; x_wconf 77' lang='lat' dir='ltr'><strong>werden</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 417 1335 466 1386; x_wconf 76' lang='lat' dir='ltr'>soll,</span> <span class='ocrx_word' id='word_1_5' title='bbox 485 1334 538 1376; x_wconf 84' lang='lat' dir='ltr'>muss</span> <span class='ocrx_word' id='word_1_6' title='bbox 554 1349 612 1391; x_wconf 77' lang='lat' dir='ltr'>ganz</span> <span class='ocrx_word' id='word_1_7' title='bbox 628 1349 669 1377; x_wconf 81' lang='lat' dir='ltr'>aus</span> <span class='ocrx_word' id='word_1_8' title='bbox 685 1335 734 1377; x_wconf 76' lang='lat' dir='ltr'>sich</span> <span class='ocrx_word' id='word_1_9' title='bbox 751 1334 822 1378; x_wconf 72' lang='lat' dir='ltr'><strong>selbst</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 43 1428 656 1484">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 43 1428 656 1484">
+     <span class='ocr_line' id='line_1_2' title="bbox 43 1428 656 1484; baseline 0 -13"><span class='ocrx_word' id='word_1_10' title='bbox 43 1428 167 1483; x_wconf 62' lang='lat' dir='ltr'>verheidigfl</span> <span class='ocrx_word' id='word_1_11' title='bbox 183 1428 280 1480; x_wconf 80' lang='lat' dir='ltr'>werdon,</span> <span class='ocrx_word' id='word_1_12' title='bbox 297 1441 321 1470; x_wconf 87' lang='lat' dir='ltr'>so</span> <span class='ocrx_word' id='word_1_13' title='bbox 338 1428 396 1470; x_wconf 71' lang='lat' dir='ltr'>auch</span> <span class='ocrx_word' id='word_1_14' title='bbox 412 1428 448 1470; x_wconf 85' lang='lat' dir='ltr'>die</span> <span class='ocrx_word' id='word_1_15' title='bbox 465 1428 576 1484; x_wconf 82' lang='lat' dir='ltr'>Religion.</span> <span class='ocrx_word' id='word_1_16' title='bbox 655 1468 656 1471; x_wconf 73' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 540 1544 779 1604">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 540 1544 779 1604">
+     <span class='ocr_line' id='line_1_3' title="bbox 540 1544 779 1604; baseline 0.004 -1"><span class='ocrx_word' id='word_1_17' title='bbox 540 1544 779 1604; x_wconf 65' lang='lat' dir='ltr'>Sohloiermadh&#39;er.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 852 2985">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 852 2985">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 852 2985; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 852 2985; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
